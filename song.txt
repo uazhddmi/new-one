@@ -1,7 +1,0 @@
-#/bin/bash!
-
-Hello, World
-
-Buy, word!!
-
-one more line
